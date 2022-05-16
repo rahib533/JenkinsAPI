@@ -20,7 +20,7 @@ namespace JenkinsAPI
             Host.CreateDefaultBuilder(args)
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
-                    webBuilder.UseUrls("http://*.1000");
+                    webBuilder.UseUrls("http://*:1000");
                     webBuilder.UseStartup<Startup>();
                 });
     }
