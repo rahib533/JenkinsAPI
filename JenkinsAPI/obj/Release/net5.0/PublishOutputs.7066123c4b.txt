@@ -1,0 +1,11 @@
+C:\Users\cafarovr\source\repos\JenkinsAPI\JenkinsAPI\out\JenkinsAPI.exe
+C:\Users\cafarovr\source\repos\JenkinsAPI\JenkinsAPI\out\appsettings.Development.json
+C:\Users\cafarovr\source\repos\JenkinsAPI\JenkinsAPI\out\appsettings.json
+C:\Users\cafarovr\source\repos\JenkinsAPI\JenkinsAPI\out\JenkinsAPI.dll
+C:\Users\cafarovr\source\repos\JenkinsAPI\JenkinsAPI\out\JenkinsAPI.deps.json
+C:\Users\cafarovr\source\repos\JenkinsAPI\JenkinsAPI\out\JenkinsAPI.runtimeconfig.json
+C:\Users\cafarovr\source\repos\JenkinsAPI\JenkinsAPI\out\JenkinsAPI.pdb
+C:\Users\cafarovr\source\repos\JenkinsAPI\JenkinsAPI\out\Microsoft.OpenApi.dll
+C:\Users\cafarovr\source\repos\JenkinsAPI\JenkinsAPI\out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\cafarovr\source\repos\JenkinsAPI\JenkinsAPI\out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\cafarovr\source\repos\JenkinsAPI\JenkinsAPI\out\Swashbuckle.AspNetCore.SwaggerUI.dll
