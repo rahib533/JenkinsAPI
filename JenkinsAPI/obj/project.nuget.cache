@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "yJDjg2LEKZZtgZR9jK4KajKHPdik1pskLJ6MUiJ/qEpaa28a0HkXTYzQk/xUGi0NKu2Kp1cmCUEUqJYmTOzNkw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cafarovr\\source\\repos\\JenkinsAPI\\JenkinsAPI\\JenkinsAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cafarovr\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\cafarovr\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\cafarovr\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512",
+    "C:\\Users\\cafarovr\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\cafarovr\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\cafarovr\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\cafarovr\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
